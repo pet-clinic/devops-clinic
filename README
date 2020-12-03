@@ -1,7 +1,4 @@
 devops workflow
-
-
-
 kubernetes doc:
 pod
 deployment
@@ -9,11 +6,8 @@ service
 namespace
 ingress
 job
-CI
-
+Cty
 CD
-
-
 CT
 
 CM
